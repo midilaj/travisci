@@ -11,4 +11,4 @@ python:
   - "nightly"  # nightly build
 
 script:
-  - python print("Hello World")
+  - python test.py
